@@ -1,6 +1,6 @@
 {
   "name": "node-native-zip",
-  "version": "1.1.0",
+  "version": "1.1.0-fix_zip_mac",
   "description": "A ZIP library without external dependencies",
   "author": "Jan Jongboom <janjongboom@gmail.com>",
   "dependencies": { },
